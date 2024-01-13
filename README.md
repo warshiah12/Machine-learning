@@ -1,1 +1,1 @@
-# Machine-learning
+# Machine-learning - Hand gesture presentation
